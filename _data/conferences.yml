@@ -19,6 +19,16 @@
   date: August 12-16, 2018
   place: Vancouver, Canada
   sub: GR
+  
+  - name: ACM MM
+  year: 2018
+  id: acmmm2018
+  link: http://www.acmmm.org/2018/dates/
+  deadline: "2018-03-29 23:59:59"
+  timezone: UTC
+  date: October 22-26, 2018
+  place: Seoul, Korea
+  sub: CV
 
 - name: IJCAI
   year: 2018
